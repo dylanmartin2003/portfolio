@@ -2,33 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://dylanmartin2003.github.io/portfolio/categories/</loc>
     <lastmod>2022-05-16T10:41:53+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/d%C3%A9veloppement-web/</loc>
+    <loc>https://dylanmartin2003.github.io/portfolio/categories/d%C3%A9veloppement-web/</loc>
     <lastmod>2022-05-16T10:41:53+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://dylanmartin2003.github.io/portfolio/</loc>
     <lastmod>2022-05-16T10:41:53+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/projet/</loc>
+    <loc>https://dylanmartin2003.github.io/portfolio/categories/projet/</loc>
     <lastmod>2022-05-16T10:41:53+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/projets/deuxieme_projet/</loc>
+    <loc>https://dylanmartin2003.github.io/portfolio/projets/deuxieme_projet/</loc>
     <lastmod>2022-05-16T10:41:53+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/projets/</loc>
+    <loc>https://dylanmartin2003.github.io/portfolio/projets/</loc>
     <lastmod>2022-05-16T10:41:53+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/projets/projet/</loc>
+    <loc>https://dylanmartin2003.github.io/portfolio/projets/projet/</loc>
     <lastmod>2022-05-09T10:41:53+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/</loc>
+    <loc>https://dylanmartin2003.github.io/portfolio/blog/</loc>
     <lastmod>2022-04-25T11:15:07+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/mon-premier-article/</loc>
+    <loc>https://dylanmartin2003.github.io/portfolio/blog/mon-premier-article/</loc>
     <lastmod>2022-04-25T11:15:07+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://dylanmartin2003.github.io/portfolio/tags/</loc>
   </url>
 </urlset>

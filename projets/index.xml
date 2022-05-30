@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projets on Portfolio</title>
-    <link>http://example.org/projets/</link>
+    <link>https://dylanmartin2003.github.io/portfolio/projets/</link>
     <description>Recent content in Projets on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 16 May 2022 10:41:53 +0200</lastBuildDate><atom:link href="http://example.org/projets/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 May 2022 10:41:53 +0200</lastBuildDate><atom:link href="https://dylanmartin2003.github.io/portfolio/projets/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projet 2</title>
-      <link>http://example.org/projets/deuxieme_projet/</link>
+      <link>https://dylanmartin2003.github.io/portfolio/projets/deuxieme_projet/</link>
       <pubDate>Mon, 16 May 2022 10:41:53 +0200</pubDate>
       
-      <guid>http://example.org/projets/deuxieme_projet/</guid>
+      <guid>https://dylanmartin2003.github.io/portfolio/projets/deuxieme_projet/</guid>
       <description>Ceci est mon deuxieme projet.</description>
     </item>
     
     <item>
       <title>Projet 1</title>
-      <link>http://example.org/projets/projet/</link>
+      <link>https://dylanmartin2003.github.io/portfolio/projets/projet/</link>
       <pubDate>Mon, 09 May 2022 10:41:53 +0200</pubDate>
       
-      <guid>http://example.org/projets/projet/</guid>
+      <guid>https://dylanmartin2003.github.io/portfolio/projets/projet/</guid>
       <description>Ceci est mon premier projet.</description>
     </item>
     
